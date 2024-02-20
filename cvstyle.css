@@ -41,7 +41,7 @@ body {
 .section img {
         max-width: 60%;
         height: auto;
-        margin-left: 20%;
+        margin: auto;
       }
 
 .inner{
