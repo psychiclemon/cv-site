@@ -43,6 +43,10 @@ body {
         margin:auto;
       }
 
+.section div {
+        contain: layout;
+      }
+
 .inner{
     margin: 5%;
     display: block;
