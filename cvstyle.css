@@ -167,3 +167,8 @@ a {
     color: var(--ddarkgreen);
     text-decoration: none; /* no underline */
   }
+
+
+img .tall {
+    max-width: 100%;
+  }
