@@ -47,6 +47,8 @@ body {
     margin: 5%;
     display: block;
     contain: layout;
+    display: flex;
+    justify-content: center;
     
 }
 
