@@ -14,7 +14,6 @@
 
 body {
     background-color: var(--bbackground); 
-    /*filter: url(#noiseFilter);*/
     font-family: 'Karla';
 
 }
@@ -28,7 +27,7 @@ body {
     text-align: justify;
     text-justify: inter-word;
     color: var(--ddarkgreen);
-    
+
     img {
         display: block;
         margin-left: auto;
@@ -41,7 +40,7 @@ body {
 .section img {
         max-width: 60%;
         height: auto;
-        margin: auto;
+        margin:auto;
       }
 
 .inner{
