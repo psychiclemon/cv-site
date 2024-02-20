@@ -43,9 +43,10 @@ body {
         margin:auto;
       }
 
-.section div {
-        contain: layout;
-      }
+.imagethatwontcentermobile {
+    display: flex;
+    justify-content: space-around;
+}
 
 .inner{
     margin: 5%;
